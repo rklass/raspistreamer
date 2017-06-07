@@ -13,7 +13,11 @@ raspistreamer is a live video streaming and recording project based on nginx/rtm
 
 - A Virtual Private Server in the internet with Ubuntu 16.04
 - **Option 1: Usage of a professional IP Camera**
+- Intel NUC i5 with at leat 8GB of memory and 256GB SSDs
 - eg Axis V5915 PTZ Network-Camera
 - **Option 2: Usage of the Raspberry Pi Camera**
 - Raspberry Pi 3, Model B
 - Raspberry Pi Camera Module
+
+## Installation & configuration steps:
+- [Setup of the Virtual Private Server](SERVER_SETUP.md)

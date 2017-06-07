@@ -21,3 +21,6 @@ raspistreamer is a live video streaming and recording project based on nginx/rtm
 
 ## Installation & configuration steps:
 - [Setup of the Virtual Private Server](streamingServer/INSTALL.md)
+- [Setup of the Intel NUC & IP Camera](ipcameraEncoder/INSTALL.md)
+- [Setup of the Raspberry Pi & Camera Module](raspberryEncoder/INSTALL.md)
+

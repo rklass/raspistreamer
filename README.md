@@ -1,7 +1,7 @@
 # raspistreamer
 raspistreamer is a live video streaming and recording solution based on nginx/rtmp and ffmpeg.
 
-It provides the following features:
+###### It provides the following features:
 - streaming server based on nginx and rtmp
 - Intel NUC Decoder/Encoder based on ffmpeg (for the usage of IP Cameras with rtsp stream)
 - Raspberry Pi Decoder/Encoder based on ffmpeg (for the usage of the Raspberry Pi Camera)

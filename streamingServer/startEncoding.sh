@@ -1,4 +1,4 @@
-#!/bin/bash  
+#!/bin/bash   
  on_die () {  
    # kill all children  
    pkill -KILL -P $$  
